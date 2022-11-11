@@ -1,0 +1,26 @@
+[
+    {
+        "id": 100,
+        "title":"Webdeveloper"
+    },
+    {
+        "id": 101,
+        "title":"IOT Specialist"
+    },
+    {
+        "id": 102,
+        "title":"Full stack developer"
+    },
+    {
+        "id": 103,
+        "title":"Frontend developer"
+    },
+    {
+        "id": 104,
+        "title":"Python developer"
+    },
+    {
+        "id": 105,
+        "title":"API developer"
+    }
+]
